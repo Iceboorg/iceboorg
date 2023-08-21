@@ -9,7 +9,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Iceboorg/Iceboorg/output/snake.svg" alt="Snake animation" />
-
-###
